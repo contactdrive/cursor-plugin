@@ -1,0 +1,22 @@
+{
+  "name": "contactdrive",
+  "version": "1.0.0",
+  "description": "Connect your agent to a ContactDrive workspace: search and update contacts, log activity, map relationships, build outreach lists and Connect sessions, draft email campaigns, and build dashboards. Sign in with OAuth; every call is limited to the scopes you approve and your role in the workspace.",
+  "author": {
+    "name": "ContactDrive, LLC",
+    "email": "help@contactdrive.io"
+  },
+  "homepage": "https://www.contactdrive.io",
+  "license": "MIT",
+  "keywords": [
+    "contactdrive",
+    "crm",
+    "contacts",
+    "relationships",
+    "outreach",
+    "email-marketing",
+    "dashboards",
+    "mcp"
+  ],
+  "logo": "assets/logo.png"
+}
